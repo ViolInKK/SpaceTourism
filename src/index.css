@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Bellefair&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,6 +9,7 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+  font-family: "Barlow Condensed";
   font-size: 32px;
   color-scheme: dark;
 }
